@@ -28,4 +28,4 @@ Deployment
 Link: https://hummanosh.github.io/AHA-5-Food-/
 
 Contributing
-We worked as a team of 3, equally dividing each task.
+We worked as a team of 4, equally dividing each task.
